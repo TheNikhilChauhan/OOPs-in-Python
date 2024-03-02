@@ -4,5 +4,5 @@
 <ul>
     <li>Class: basic function</li>
     <li>Class: Online course management system</li>
-    <li></li>
+    <li>Class3: Travel Planner and Cost Calculator</li>
 </ul>
